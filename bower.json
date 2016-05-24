@@ -12,9 +12,11 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "requirejs": "^2.2.0"
+  },
+  "devDependencies": {
     "requirejs-plugins": "^1.0.3",
-    "requirejs": "^2.2.0",
-    "text": "requirejs/text#^2.0.15",
+    "text": "^2.0.15",
     "requirejs-babel": "^0.0.9"
   }
 }

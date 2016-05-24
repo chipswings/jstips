@@ -1,0 +1,12 @@
+[submodule "lib/requirejs-babel"]
+	path = lib/requirejs-babel
+	url = https://github.com/mikach/requirejs-babel.git
+[submodule "lib/text"]
+	path = lib/text
+	url = https://github.com/requirejs/text.git
+[submodule "lib/requirejs"]
+	path = lib/requirejs
+	url = https://github.com/requirejs/requirejs
+[submodule "lib/requirejs-plugins"]
+	path = lib/requirejs-plugins
+	url = https://github.com/millermedeiros/requirejs-plugins
